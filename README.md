@@ -1,5 +1,5 @@
 # AmazonPrimeVideo
-Ai Assisted Document on how to design Amazon Prime Video
+AI Assisted Document on how to design Amazon Prime Video
 
 
 Here's a high-level overview of how you could approach designing Amazon Prime Video:
